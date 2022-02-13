@@ -1,5 +1,14 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=techhunter2">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4000&lines=Hola%F0%9F%91%8B%2C+Nitesh+here.;Welcome+to+my+profile.;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1> 
  
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4000&lines=Hola%F0%9F%91%8B%2C+Nitesh+here.;Welcome+to+my+profile.;Nice+to+meet+you.)](https://git.io/typing-svg)
+ 
+<!-- <h1> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4000&lines=Hola%F0%9F%91%8B%2C+Nitesh+here.;Welcome+to+my+profile.;Nice+to+meet+you.)](https://git.io/typing-svg)
+ </h1> -->
+
 - 👋 Hi, I’m Nitesh(techhunter2)
 - 👀 I’m interested in learning new stuffs.
 - 🌱 I’m currently learning data science.
@@ -40,7 +49,8 @@
 ![STAT](https://github-readme-streak-stats.herokuapp.com/?user=techhunter2) 
 ![STAT](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techhunter2&theme=vue) 
 ![STAT](https://github-readme-stats.vercel.app/api/top-langs/?username=techhunter2) 
-![STAT](https://activity-graph.herokuapp.com/graph?username=techhunter2&theme=minimal) 
+<img src="https://activity-graph.herokuapp.com/graph?username=techhunter2&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<!-- ![STAT](https://activity-graph.herokuapp.com/graph?username=techhunter2) -->
 <!---
 techhunter2/techhunter2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
