@@ -48,7 +48,6 @@
 ![STAT](https://github-readme-stats.vercel.app/api?username=techhunter2)
 ![STAT](https://github-readme-streak-stats.herokuapp.com/?user=techhunter2) 
 ![STAT](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techhunter2&theme=vue) 
-![STAT](https://github-readme-stats.vercel.app/api/top-langs/?username=techhunter2) 
 <img src="https://activity-graph.herokuapp.com/graph?username=techhunter2&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <!-- ![STAT](https://activity-graph.herokuapp.com/graph?username=techhunter2) -->
 <!---
