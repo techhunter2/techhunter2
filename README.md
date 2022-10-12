@@ -1,56 +1,109 @@
+![](https://user-images.githubusercontent.com/40994679/193735642-4d9789f0-209e-4598-aec8-7357976989c8.png)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=techhunter2">
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=120&section=header"/>
+</p>
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4000&lines=Hola%F0%9F%91%8B%2C+Nitesh+here.;Welcome+to+my+profile.;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1> 
+</h1>
+
+**`Digital Craftsman (Developer/Creator)`** 
+<br/><br/>
+I'm a 3rd year Computer Science(Student) a part time Freelancer & a dynamic web Scrapping expert with proven ability to deliver short or long-term projects in data engineering, data warehousing, machine learning, and business intelligence realm. My passion is to partner with my clients to deliver top-notch, scalable data solutions to provide immediate and lasting value.
+
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br><br>
+<p align="center">
+<a href="https://www.linkedin.com/in/nitesh-kumar-a40349161/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://www.instagram.com/_nitesh9_/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
+
+<h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Nitesh Kumar
+located_in: West Bengal, Haldia
+current_job: Data Science Student & Freelancer
+education:
+  [
+    "Self-Taught Data Engineer and a freelancer",
+    "Diploma's in Computer Engineering",
+    "Bachelor's in Computer Science with (Data Science)",
+  ]
+company: GitHub
+
+fields_of_interests:
+  [
+    "Machine Learning",
+    "Data Engineering",
+    "Web Dev",
+    "Cloud",
+    "NFT & Metaverse"
+  ]
+  
+currently_learning: ["Machine Learning, Data Science and Stock Market"]
+```
+  
  
+<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br>
+<h2 align="center">🔥 Languages-Frameworks-Tools</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,bash,powershell,git,github,cpp,py,regex,selenium,flask,css,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,mysql,django,html,linux,vscode,heroku,figma,wordpress,java" />
+
+  </a>
+</p>
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br>
+<h2 align="center"> 📈 GitHub Stats </h2>
+
+<p align="center">
+ <img width="200px"src="https://user-images.githubusercontent.com/40994679/193740769-fc39c7fc-45d3-49c1-91b5-3d9f607c061b.png">
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techhunter2&layout=compact&theme=radical&custom_title=Languages" /> 
+ <img width="200px"src="https://user-images.githubusercontent.com/40994679/193740769-fc39c7fc-45d3-49c1-91b5-3d9f607c061b.png">
+ <br>
+ <br>
+ <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=techhunter2&theme=redical">
  
-<!-- <h1> [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4000&lines=Hola%F0%9F%91%8B%2C+Nitesh+here.;Welcome+to+my+profile.;Nice+to+meet+you.)](https://git.io/typing-svg)
- </h1> -->
+</p>
 
-- 👋 Hi, I’m Nitesh(techhunter2)
-- 👀 I’m interested in learning new stuffs.
-- 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on my future projects
-- 📫 How to reach me nitesh987343@gmail.com
+<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br>
+<h2 align="center">👨‍💻 Repositories👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/techhunter2/iplscrap" title="Scrapping"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=techhunter2&repo=iplscrap&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/techhunter2/nkport" title="Portfolio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=techhunter2&repo=nkport&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/techhunter2/guestdb" title="College"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=techhunter2&repo=guestdb&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/techhunter2/utubedownloader" title="Youtube Downloader"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=techhunter2&repo=utubedownloader&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
 
-## 🛠 Skills
-![C](https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)
-![C++](https://camo.githubusercontent.com/891c1fd9d2ab2adf1053e8514f469b94049769ccd9d2765c8e06e9c1b6da1b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465) 
-![HTML](https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![CSS3](https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
-![JAVASCRIPT](https://camo.githubusercontent.com/49c4e152a346f70bbf45f7e012e6e03bcf8f94e231bceebb911e59c5904e65be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463165)
-![BOOTSTRAP](https://camo.githubusercontent.com/b768ae6e4f89b74512e6de02a8367fd71465bc3d88ef1cf2f1622e2017c32bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465) 
-![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
-![KAGGLE](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white) 
-![ARDUINO](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
-![ARDUINO](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-![REACTJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![NODE.JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) 
-![GLITCH](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white) 
-![TERMINAL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
-![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![HEROKU](https://camo.githubusercontent.com/d18f98a93a8ca015503870e592f96dbdf86f41048e9de1fbbbd4b2dcc7c456b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6865726f6b752d2532333433303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465) 
-![GIT](https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465) 
-![GITHUB](https://camo.githubusercontent.com/f6d50128cb007f85916b7a899da5d94f654dce35a37331c8d28573aef46f4274/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![POWERBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 
-![CANAVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) 
-![DUOLINGO](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white) 
+<br><br><br><br><br><br><br><br>
 
-## ⚡ Stats ⚡
-![STAT](https://github-readme-stats.vercel.app/api?username=techhunter2)
-![STAT](https://github-readme-streak-stats.herokuapp.com/?user=techhunter2) 
-![STAT](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techhunter2&theme=vue) 
-<img src="https://activity-graph.herokuapp.com/graph?username=techhunter2&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-<!-- ![STAT](https://activity-graph.herokuapp.com/graph?username=techhunter2) -->
-<!---
-techhunter2/techhunter2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4 align="center">
+  <a href="https://github.com/techhunter2?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
+<br><br><br><br><br><br>
+![Techhunter gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&width=100%&section=footer"/>
+</p>
