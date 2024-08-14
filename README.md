@@ -13,7 +13,7 @@
 
 **`Digital Craftsman (Developer/Creator)`** 
 <br/><br/>
-I'm a 3rd year Computer Science(Student) a part time Freelancer & a dynamic web Scrapping expert with proven ability to deliver short or long-term projects in data engineering, data warehousing, machine learning, and business intelligence realm. My passion is to partner with my clients to deliver top-notch, scalable data solutions to provide immediate and lasting value.
+I'm a Computer Science(Student) a part time Freelancer & a dynamic web Scrapping expert with proven ability to deliver short or long-term projects in data engineering, data warehousing, machine learning, and business intelligence realm. My passion is to partner with my clients to deliver top-notch, scalable data solutions to provide immediate and lasting value.
 
 
 <h1 align="center">
