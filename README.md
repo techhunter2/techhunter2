@@ -13,7 +13,7 @@
 
 **`Digital Craftsman (Developer/Creator)`** 
 <br/><br/>
-I'm a Computer Science(Student) a part time Freelancer & a dynamic web Scrapping expert with proven ability to deliver short or long-term projects in data engineering, data warehousing, machine learning, and business intelligence realm. My passion is to partner with my clients to deliver top-notch, scalable data solutions to provide immediate and lasting value.
+I'm a Full stack Java Developer & a dynamic web Scrapping expert(Python) with proven ability to deliver short or long-term projects in Full Stack Web Development, data engineering, data warehousing, machine learning, and business intelligence realm. My passion is to partner with my clients to deliver top-notch, scalable data solutions to provide immediate and lasting value.
 
 
 <h1 align="center">
@@ -33,8 +33,8 @@ I'm a Computer Science(Student) a part time Freelancer & a dynamic web Scrapping
 
 ```yaml
 name: Nitesh Kumar
-located_in: West Bengal, Haldia
-current_job: Data Science Student & Freelancer
+located_in: Bengaluru
+current_job: Java Fullstack, Python Developer & Freelancer
 education:
   [
     "Self-Taught Data Engineer and a freelancer",
@@ -45,14 +45,14 @@ company: GitHub
 
 fields_of_interests:
   [
-    "Machine Learning",
+    "Java Developer",
     "Data Engineering",
     "Web Dev",
     "Cloud",
     "NFT & Metaverse"
   ]
   
-currently_learning: ["Machine Learning, Data Science and Stock Market"]
+currently_learning: ["Java Developer, Machine Learning, Data Science and Stock Market"]
 ```
   
  
