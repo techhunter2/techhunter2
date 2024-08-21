@@ -61,8 +61,8 @@ currently_learning: ["Java Developer, Machine Learning, Data Science and Stock M
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,bash,powershell,git,github,cpp,py,regex,selenium,flask,css,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,mysql,django,html,linux,vscode,heroku,figma,wordpress,java" />
+    <img src="https://skillicons.dev/icons?i=java,arduino,bash,powershell,git,github,cpp,py,regex,selenium,flask,css,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,bootstrap,mongodb,mysql,django,html,linux,vscode,heroku,figma,wordpress" />
 
   </a>
 </p>
