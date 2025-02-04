@@ -45,6 +45,7 @@ company: GitHub
 
 fields_of_interests:
   [
+    ".Net",
     "Java Developer",
     "Data Engineering",
     "Web Dev",
@@ -52,7 +53,7 @@ fields_of_interests:
     "NFT & Metaverse"
   ]
   
-currently_learning: ["Java Developer, Machine Learning, Data Science and Stock Market"]
+currently_learning: ["Java Developer, ".Net", Machine Learning, Data Science and Stock Market"]
 ```
   
  
@@ -61,8 +62,8 @@ currently_learning: ["Java Developer, Machine Learning, Data Science and Stock M
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,arduino,bash,powershell,git,github,cpp,py,regex,selenium,flask,css,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,bootstrap,mongodb,mysql,django,html,linux,vscode,heroku,figma,wordpress" />
+    <img src="https://skillicons.dev/icons?i=java,dotnet,arduino,bash,powershell,git,github,cpp,py,regex,selenium,flask,css,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,mongodb,mysql,django,html,linux,vscode,heroku,figma,wordpress" />
 
   </a>
 </p>
