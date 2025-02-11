@@ -13,8 +13,7 @@
 
 **`Digital Craftsman (Developer/Creator)`** 
 <br/><br/>
-I'm a Full stack Java Developer & a dynamic web Scrapping expert(Python) with proven ability to deliver short or long-term projects in Full Stack Web Development, data engineering, data warehousing, machine learning, and business intelligence realm. My passion is to partner with my clients to deliver top-notch, scalable data solutions to provide immediate and lasting value.
-
+I'm a Full stack Java Developer & a dynamic web Scrapping expert(Python).
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
@@ -34,7 +33,7 @@ I'm a Full stack Java Developer & a dynamic web Scrapping expert(Python) with pr
 ```yaml
 name: Nitesh Kumar
 located_in: Bengaluru
-current_job: Java Fullstack, Python Developer & Freelancer
+current_job: Java Fullstack, Python Developer
 education:
   [
     "Self-Taught Data Engineer and a freelancer",
