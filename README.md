@@ -1,109 +1,244 @@
-![](https://user-images.githubusercontent.com/40994679/193735642-4d9789f0-209e-4598-aec8-7357976989c8.png)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=techhunter2">
+# <div align="center">👋 Hi, I'm Nitesh Kumar</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HEY!&height=120&section=header"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4000&lines=Hola%F0%9F%91%8B%2C+Nitesh+here.;Welcome+to+my+profile.;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+### Data Engineer • Backend Engineer • Python Automation Expert • AI Enthusiast
 
-**`Digital Craftsman (Developer/Creator)`** 
-<br/><br/>
-I'm a Full stack Java Developer & a dynamic web Scrapping expert(Python).
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Data+Engineer;Building+Scalable+ETL+Pipelines;Python+Automation+Expert;Java+Backend+Developer;Generative+AI+Enthusiast;Turning+Data+Into+Insights" />
 
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br><br>
-<p align="center">
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=techhunter2&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/techhunter2?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/techhunter2?style=for-the-badge" />
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/nitesh-kumar-a40349161/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/_nitesh9_/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-</p>
 
-<h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+Data Engineer and Software Developer passionate about building scalable data solutions, automation systems, and AI-powered applications.
+
+With expertise in Data Engineering, Web Scraping, Cloud Technologies, and Backend Development, I enjoy solving complex problems and transforming raw data into valuable business insights.
+
+### 💡 Professional Summary
+
+- 🔹 Data Engineer with experience in ETL Pipelines and Data Processing
+- 🔹 Python Automation & Web Scraping Expert
+- 🔹 Java Full Stack Developer
+- 🔹 Experience with AWS & Cloud Technologies
+- 🔹 Strong SQL and Database Optimization Skills
+- 🔹 Building AI & LLM-based Applications
+- 🔹 Worked with 500+ clients globally
+- 🔹 Passionate about scalable systems and data-driven solutions
+
+---
+
+## 🎯 Current Focus
 
 ```yaml
-name: Nitesh Kumar
-located_in: Bengaluru
-current_job: Java Fullstack, Python Developer
-education:
-  [
-    "Self-Taught Data Engineer and a freelancer",
-    "Diploma's in Computer Engineering",
-    "Bachelor's in Computer Science with (Data Science)",
-  ]
-company: GitHub
+Currently Working On:
+  - Data Engineering
+  - Backend Development
+  - Cloud Data Solutions
 
-fields_of_interests:
-  [
-    ".Net",
-    "Java Developer",
-    "Data Engineering",
-    "Web Dev",
-    "Cloud",
-    "NFT & Metaverse"
-  ]
-  
-currently_learning: ["Java Developer, ".Net", Machine Learning, Data Science and Stock Market"]
+Currently Learning:
+  - Advanced Data Engineering
+  - Distributed Systems
+  - System Design
+  - AI Agents
+  - LLM Engineering
+
+Interests:
+  - Data Platforms
+  - Big Data
+  - Machine Learning
+  - Cloud Architecture
+  - Financial Markets
 ```
-  
- 
-<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br>
-<h2 align="center">🔥 Languages-Frameworks-Tools</h2>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dotnet,arduino,bash,powershell,git,github,cpp,py,regex,selenium,flask,css,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,mongodb,mysql,django,html,linux,vscode,heroku,figma,wordpress" />
 
-  </a>
-</p>
-<br>
-<br>
-<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br>
-<h2 align="center"> 📈 GitHub Stats </h2>
+---
 
-<p align="center">
- <img width="200px"src="https://user-images.githubusercontent.com/40994679/193740769-fc39c7fc-45d3-49c1-91b5-3d9f607c061b.png">
- <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techhunter2&layout=compact&theme=radical&custom_title=Languages" /> 
- <img width="200px"src="https://user-images.githubusercontent.com/40994679/193740769-fc39c7fc-45d3-49c1-91b5-3d9f607c061b.png">
- <br>
- <br>
- <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=techhunter2&theme=redical">
- 
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,mysql" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/40994679/193983759-54fb53ff-248e-44fc-910b-0b619eed23b4.png" width="100%" height="8px"/><br>
-<h2 align="center">👨‍💻 Repositories👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/techhunter2/iplscrap" title="Scrapping"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=techhunter2&repo=iplscrap&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/techhunter2/nkport" title="Portfolio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=techhunter2&repo=nkport&theme=react&border_color=61dafb&border_radius=10"></a>
+### Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=spring,django,flask,nodejs" />
+</p>
+
+### Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind" />
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### Cloud & DevOps
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github" />
+</p>
+
+### Data Engineering & Automation
+
+- ✅ ETL Pipelines
+- ✅ Data Modeling
+- ✅ Data Warehousing
+- ✅ Data Processing
+- ✅ API Integrations
+- ✅ Web Scraping
+- ✅ Selenium
+- ✅ BeautifulSoup
+- ✅ Scrapy
+- ✅ Pandas
+
+---
+
+## 📈 Professional Highlights
+
+### 🚀 Impact & Achievements
+
+- 🌎 Worked with **500+ clients worldwide**
+- ⭐ Maintained an average client rating of **5/5**
+- 📊 Developed scalable ETL and Data Processing solutions
+- 🔍 Successfully scraped thousands of websites
+- ⚡ Built enterprise-grade automation systems
+- 🤖 Developed AI-powered applications using LLMs
+- ☁️ Experience with AWS, GCP, and Cloud Data Workflows
+- 📈 Strong foundation in Data Science & Analytics
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=techhunter2&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techhunter2&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/techhunter2/guestdb" title="College"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=techhunter2&repo=guestdb&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/techhunter2/utubedownloader" title="Youtube Downloader"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=techhunter2&repo=utubedownloader&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=techhunter2&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<br><br><br><br><br><br><br><br>
+---
 
-<h4 align="center">
-  <a href="https://github.com/techhunter2?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+## 📈 Contribution Activity
 
-<br><br><br><br><br><br>
-![Techhunter gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techhunter2&theme=tokyo-night&hide_border=true"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&width=100%&section=footer"/>
-</p>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Data Pipeline Solutions
+Designed and developed automated ETL workflows for collecting, processing, and transforming large datasets.
+
+### 🔍 Enterprise Web Scraping Platform
+Scalable scraping infrastructure supporting proxies, CAPTCHA handling, and large-scale data extraction.
+
+### 🤖 AI News Summarizer
+Spring Boot + LLM application that summarizes articles and generates personalized cold emails from URLs.
+
+### 📄 OCR Data Extraction System
+Automated PDF processing pipeline converting unstructured documents into structured JSON datasets.
+
+### 🌐 Portfolio Website
+Professional portfolio showcasing projects, skills, and technical achievements.
+
+---
+
+## 🏆 Areas of Expertise
+
+### Data Engineering
+- ETL Development
+- Data Warehousing
+- Data Modeling
+- Data Pipelines
+
+### Cloud Technologies
+- AWS
+- GCP
+- Cloud Architecture
+
+### Artificial Intelligence
+- Generative AI
+- LLM Applications
+- AI Agents
+
+### Software Engineering
+- Java Backend Development
+- System Design
+- REST APIs
+- Microservices
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nitesh-kumar-a40349161/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 Philosophy
+
+### "Transforming raw data into meaningful insights and building scalable systems that create impact."
+
+⭐ If you like my work, consider following my journey and exploring my repositories.
+
+</div>
